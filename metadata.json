@@ -1,0 +1,6 @@
+{
+  "name": "Mutqin Ulul Albab",
+  "description": "Platform Monitoring dan Evaluasi Perkembangan Santri Al-Qur'an untuk TPA dan Tahfidz Khusus Ulul Albab",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
